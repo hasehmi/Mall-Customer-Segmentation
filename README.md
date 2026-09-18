@@ -52,8 +52,3 @@ jupyter notebook mall_clustering.ipynb
 - Validate cluster quality with a silhouette score rather than relying on the elbow method alone.
 - Try DBSCAN as a third clustering approach — it doesn't assume roughly spherical clusters the way K-Means does.
 - Test the trained classifier on genuinely new/synthetic customer profiles, not just a held-out split of the same 200 rows.
-
-## Author
-
-Ans Tanveer Hashmi — BS Data Science, MNS University of Agriculture, Multan.
-[LinkedIn] · [GitHub]
